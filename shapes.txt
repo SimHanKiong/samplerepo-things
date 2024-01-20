@@ -1,4 +1,6 @@
 circle
 oval
 rectangle
+star
 square
+triangle
